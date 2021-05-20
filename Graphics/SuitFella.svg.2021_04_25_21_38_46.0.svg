@@ -343,126 +343,230 @@
          style="fill:#daf9ff;fill-opacity:1;stroke:none;stroke-width:0.08592428;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g4866">
+       id="g4725"
+       transform="translate(-1.3919833,-2.2243135)"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120">
       <path
+         sodipodi:nodetypes="czzcc"
          inkscape:connector-curvature="0"
-         id="path4485-9-5"
-         d="M 142.91439,21.015712 A 20,20 0 0 0 122.91458,41.015526 V 66.01555 A 20,20 0 0 0 142.91439,86.015362 20,20 0 0 0 162.9142,66.01555 V 41.015526 A 20,20 0 0 0 142.91439,21.015712 Z"
-         style="fill:#3ec6de;fill-opacity:1;stroke:none;stroke-width:0.80000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         id="path5042-0-9"
+         d="m 157.95318,84.91662 c 0.29465,2.055346 0.51867,3.332307 2.14204,4.047266 1.62337,0.714958 3.29794,-1.042105 3.31023,-2.973281 0.0123,-1.931176 -1.94961,-0.858572 -3.34898,-2.381777 z"
+         style="fill:#3ec6de;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
-         sodipodi:nodetypes="cscccc"
+         sodipodi:nodetypes="czcczcc"
          inkscape:connector-curvature="0"
-         id="path4877-1"
-         d="m 135.10479,78.837666 c -4.23077,-8.942884 -5.22882,-17.207609 -5.93781,-26.659091 -0.70864,-9.446869 -0.69943,-18.800215 -0.62494,-18.865432 -3.98302,2.401894 -5.65431,5.609231 -5.5693,16.525685 -0.0525,3.480169 0.43679,11.648157 0.39944,17.618358 0.23873,5.381899 9.63848,10.963537 11.73261,11.38048 z"
-         style="fill:#0aaac0;fill-opacity:1;stroke:none;stroke-width:0.29868272px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="path5008-2-97"
+         d="m 149.80383,66.524828 c 0.8111,3.656328 1.92315,9.819042 2.66716,11.904429 0.744,2.085387 3.4502,5.393773 5.17531,8.090661 l 3.57471,-2.522846 c -1.29177,-1.937751 -3.18591,-4.091123 -3.87525,-5.814727 -0.68934,-1.723604 -1.62304,-6.815973 -2.29362,-9.42799 z"
+         style="fill:#00171b;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#3ec6de;fill-opacity:1;stroke:none;stroke-width:0.80000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 142.91439,21.015712 A 20,20 0 0 0 122.91458,41.015526 V 66.01555 A 20,20 0 0 0 142.91439,86.015362 20,20 0 0 0 162.9142,66.01555 V 41.015526 A 20,20 0 0 0 142.91439,21.015712 Z"
+       id="path4485-9-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#0aaac0;fill-opacity:1;stroke:none;stroke-width:0.29868272px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.10479,78.837666 c -4.23077,-8.942884 -5.22882,-17.207609 -5.93781,-26.659091 -0.70864,-9.446869 -0.69943,-18.800215 -0.62494,-18.865432 -3.98302,2.401894 -5.65431,5.609231 -5.5693,16.525685 -0.0525,3.480169 0.43679,11.648157 0.39944,17.618358 0.23873,5.381899 9.63848,10.963537 11.73261,11.38048 z"
+       id="path4877-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscccc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#822300;fill-opacity:1;stroke:none;stroke-width:0.27872404px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 122.16168,23.273937 c -5.4966,10.536244 -2.98358,20.267461 0.90825,26.366058 -0.41292,-0.147084 12.29775,3.323486 11.93562,-2.43789 -0.57764,-9.190283 6.35059,-10.768091 6.96987,-9.220514 2.27929,5.695933 3.89812,6.449844 6.06618,6.13574 2.13271,-0.308982 2.84367,-14.83727 8.69878,-14.820394 5.85511,0.01688 4.55126,0.63733 6.31942,-8.285345 1.76816,-8.922675 -35.40151,-8.273899 -40.89812,2.262345 z"
+       id="path4747-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zcssszzz"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.32386985px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 120.93386,43.651731 c -4.35022,-11.012486 1.7384,-17.503679 4.33818,-21.290455 -3.15802,4.439656 -5.95614,11.74249 -4.33818,21.290455 z"
+       id="path4764-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.28120601px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.23249,17.989218 c -7.35622,0.724512 -8.66527,3.147005 -9.82177,4.530059 2.98423,-2.497368 4.25292,-2.786227 9.82177,-4.530059 z"
+       id="path4764-0-3-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.26827076px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 159.99494,22.48555 c -0.92687,-4.846048 -2.74036,-6.023683 -4.53442,-6.338515 2.62298,2.173169 3.10505,3.680963 4.53442,6.338515 z"
+       id="path4764-0-3-8-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.2404357px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 148.92039,41.042491 c 0.43859,-2.729942 0.20179,-3.447499 1.67078,-6.589565 -2.53827,2.444277 -2.18945,5.497502 -1.67078,6.589565 z"
+       id="path4764-0-3-8-4-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.25080979px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 161.24118,24.671662 c 1.32241,-4.154738 0.22084,-5.781083 -1.2466,-6.724239 1.38454,2.720244 1.1466,4.088152 1.2466,6.724239 z"
+       id="path4764-0-3-8-1-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#003941;fill-opacity:1;stroke:none;stroke-width:0.20917092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 157.96074,55.710432 c -0.42377,-1.266235 2.81587,0.0292 4.95763,0.08155 -0.006,1.2387 -0.007,1.341468 -0.007,2.396657 -2.03863,-0.102815 -4.52702,-1.211969 -4.95079,-2.478203 z"
+       id="path4883-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zccz"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 147.70304,93.083058 c 0.2157,0.306632 1.28694,0.45866 1.80434,0.538042 2.99653,0.282318 4.30882,2.599758 4.05309,4.063958 -2.73466,0.559037 -4.69184,0.929348 -8.29854,0.03919 -1.00128,-0.865477 -1.06394,-3.094148 -1.47693,-4.722219 z"
+       id="path5069-1-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#424242;fill-opacity:1;stroke:none;stroke-width:0.2880941px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 151.2024,86.622733 -0.44363,7.202916 -7.65263,0.09354 -0.77635,-6.735191 z"
+       id="path5025-4-8-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#424242;fill-opacity:1;stroke:none;stroke-width:0.33159891px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 160.42691,75.415694 -9.30488,12.430682 -14.27442,-0.344766 c -6.44605,-3.178668 -9.90563,-8.364734 -11.05485,-12.589483 z"
+       id="path4887-8-9-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#8e8e8e;stroke-width:0.2958127px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 155.39892,81.865149 146.1787,79.491647 139.96923,59.75494 c 5.81259,1.832826 16.11046,2.541172 22.57189,4.373998 0.37894,9.109376 -2.55184,13.360907 -7.1422,17.736211 z"
+       id="path4887-8-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <g
+       id="g5547"
+       transform="matrix(0.51916773,0,0,1,78.387527,0.38552617)"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120">
       <path
-         sodipodi:nodetypes="zcssszzz"
+         sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
-         id="path4747-3"
-         d="m 122.16168,23.273937 c -5.4966,10.536244 -2.98358,20.267461 0.90825,26.366058 -0.41292,-0.147084 12.29775,3.323486 11.93562,-2.43789 -0.57764,-9.190283 6.35059,-10.768091 6.96987,-9.220514 2.27929,5.695933 3.89812,6.449844 6.06618,6.13574 2.13271,-0.308982 2.84367,-14.83727 8.69878,-14.820394 5.85511,0.01688 4.55126,0.63733 6.31942,-8.285345 1.76816,-8.922675 -35.40151,-8.273899 -40.89812,2.262345 z"
-         style="fill:#822300;fill-opacity:1;stroke:none;stroke-width:0.27872404px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path4764-4"
-         d="m 120.93386,43.651731 c -4.35022,-11.012486 1.7384,-17.503679 4.33818,-21.290455 -3.15802,4.439656 -5.95614,11.74249 -4.33818,21.290455 z"
-         style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.32386985px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path4764-0-3-2"
-         d="m 135.23249,17.989218 c -7.35622,0.724512 -8.66527,3.147005 -9.82177,4.530059 2.98423,-2.497368 4.25292,-2.786227 9.82177,-4.530059 z"
-         style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.28120601px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path4764-0-3-8-0"
-         d="m 159.99494,22.48555 c -0.92687,-4.846048 -2.74036,-6.023683 -4.53442,-6.338515 2.62298,2.173169 3.10505,3.680963 4.53442,6.338515 z"
-         style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.26827076px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path4764-0-3-8-4-0"
-         d="m 148.92039,41.042491 c 0.43859,-2.729942 0.20179,-3.447499 1.67078,-6.589565 -2.53827,2.444277 -2.18945,5.497502 -1.67078,6.589565 z"
-         style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.2404357px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path4764-0-3-8-1-7"
-         d="m 161.24118,24.671662 c 1.32241,-4.154738 0.22084,-5.781083 -1.2466,-6.724239 1.38454,2.720244 1.1466,4.088152 1.2466,6.724239 z"
-         style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.25080979px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="zccz"
-         inkscape:connector-curvature="0"
-         id="path4883-7"
-         d="m 157.96074,55.710432 c -0.42377,-1.266235 2.81587,0.0292 4.95763,0.08155 -0.006,1.2387 -0.007,1.341468 -0.007,2.396657 -2.03863,-0.102815 -4.52702,-1.211969 -4.95079,-2.478203 z"
-         style="fill:#003941;fill-opacity:1;stroke:none;stroke-width:0.20917092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="path4951-6"
+         d="m 160.62832,65.971858 c 0.41845,-0.809684 0.69171,-1.632841 1.38363,-2.239795 0.80056,0.39863 1.57216,1.285511 2.18388,2.121351 l -0.88541,2.410381 1.29626,15.26109 -2.24507,1.884249 -2.43215,-2.071338 1.6356,-14.91605 z"
+         style="fill:#ff0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cccccc"
          inkscape:connector-curvature="0"
-         id="path5069-1-0-9"
-         d="m 147.70304,93.083058 c 0.2157,0.306632 1.28694,0.45866 1.80434,0.538042 2.99653,0.282318 4.30882,2.599758 4.05309,4.063958 -2.73466,0.559037 -4.69184,0.929348 -8.29854,0.03919 -1.00128,-0.865477 -1.06394,-3.094148 -1.47693,-4.722219 z"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path5025-4-8-0"
-         d="m 151.2024,86.622733 -0.44363,7.202916 -7.65263,0.09354 -0.77635,-6.735191 z"
-         style="fill:#424242;fill-opacity:1;stroke:none;stroke-width:0.2880941px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path4887-8-9-9"
-         d="m 160.42691,75.415694 -9.30488,12.430682 -14.27442,-0.344766 c -6.44605,-3.178668 -9.90563,-8.364734 -11.05485,-12.589483 z"
-         style="fill:#424242;fill-opacity:1;stroke:none;stroke-width:0.33159891px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path4887-8-0-9"
-         d="M 155.39892,81.865149 146.1787,79.491647 139.96923,59.75494 c 5.81259,1.832826 16.11046,2.541172 22.57189,4.373998 0.37894,9.109376 -2.55184,13.360907 -7.1422,17.736211 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:#8e8e8e;stroke-width:0.2958127px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <g
-         transform="matrix(0.51916773,0,0,1,78.387527,0.38552617)"
-         id="g5547">
-        <path
-           style="fill:#ff0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 160.62832,65.971858 c 0.41845,-0.809684 0.69171,-1.632841 1.38363,-2.239795 0.80056,0.39863 1.57216,1.285511 2.18388,2.121351 l -0.88541,2.410381 1.29626,15.26109 -2.24507,1.884249 -2.43215,-2.071338 1.6356,-14.91605 z"
-           id="path4951-6"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccccccc" />
-        <path
-           style="fill:#d20000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 161.56506,68.421746 c 0.83688,0.163197 1.30698,0.01604 1.74536,-0.157951 l 0.88542,-2.410381 c -0.60228,-1.209818 -1.41463,-1.579377 -2.18388,-2.121352 -0.60777,0.570722 -1.20708,1.151609 -1.38363,2.239796 z"
-           id="path4979-0"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc" />
-      </g>
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path4934-0-0"
-         d="m 162.08556,64.448319 c -0.78112,0.99502 -1.55592,2.668593 -1.96505,4.373027 -4.46232,-1.308854 -10.14127,-3.834334 -15.21437,-5.753963 l 14.56908,5.092468 c 1.77079,-3.414617 2.00591,-3.338746 2.61034,-3.711532 z"
-         style="fill:#060606;fill-opacity:1;stroke:none;stroke-width:0.24571218px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="czccc"
-         inkscape:connector-curvature="0"
-         id="path4887-9"
-         d="m 122.55901,55.280216 c -1.70459,11.574159 2.4219,23.840628 6.32437,25.663872 3.90248,1.823244 24.442,3.889746 25.36244,3.378123 0.84414,-0.613799 5.91663,-9.884171 1.97299,-18.484803 -0.8289,-2.33405 -29.36063,-8.291165 -33.6598,-10.557192 z"
-         style="fill:#00171b;fill-opacity:1;stroke:none;stroke-width:0.26261204px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cczzcscsc"
-         inkscape:connector-curvature="0"
-         id="path4957-34"
-         d="m 122.48151,54.817193 c -0.39868,1.306 -0.39835,4.844468 0.20819,5.061692 4.35386,2.044504 28.45618,7.586388 28.77248,6.964354 0.3163,-0.622034 3.36945,-1.839829 3.66107,-1.590255 0.29163,0.249574 -1.31558,2.221164 -2.14782,3.227279 0.7684,7.509703 0.15683,6.218195 0.399,11.676019 0.0931,2.097462 0.88759,1.586967 2.13966,2.151521 2.44101,-5.483769 3.15828,-14.005824 1.04641,-17.242136 -2.41878,-3.706657 -29.4273,-8.220024 -34.07899,-10.248474 z"
-         style="fill:#313131;fill-opacity:1;stroke:none;stroke-width:0.27029759px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:transform-center-y="-4.3354529"
-         inkscape:transform-center-x="-5.7370267"
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path4764-0-3-2-7"
-         d="m 132.25636,41.260253 c 3.15349,-5.014651 5.64957,-4.869513 8.25832,-4.915806 -3.6837,0.752478 -4.788,1.446445 -8.25832,4.915806 z"
-         style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.28120601px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="path4979-0"
+         d="m 161.56506,68.421746 c 0.83688,0.163197 1.30698,0.01604 1.74536,-0.157951 l 0.88542,-2.410381 c -0.60228,-1.209818 -1.41463,-1.579377 -2.18388,-2.121352 -0.60777,0.570722 -1.20708,1.151609 -1.38363,2.239796 z"
+         style="fill:#d20000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#060606;fill-opacity:1;stroke:none;stroke-width:0.24571218px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 162.08556,64.448319 c -0.78112,0.99502 -1.55592,2.668593 -1.96505,4.373027 -4.46232,-1.308854 -10.14127,-3.834334 -15.21437,-5.753963 l 14.56908,5.092468 c 1.77079,-3.414617 2.00591,-3.338746 2.61034,-3.711532 z"
+       id="path4934-0-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#00171b;fill-opacity:1;stroke:none;stroke-width:0.26261204px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 122.55901,55.280216 c -1.70459,11.574159 2.4219,23.840628 6.32437,25.663872 3.90248,1.823244 24.442,3.889746 25.36244,3.378123 0.84414,-0.613799 5.91663,-9.884171 1.97299,-18.484803 -0.8289,-2.33405 -29.36063,-8.291165 -33.6598,-10.557192 z"
+       id="path4887-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czccc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#313131;fill-opacity:1;stroke:none;stroke-width:0.27029759px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 122.48151,54.817193 c -0.39868,1.306 -0.39835,4.844468 0.20819,5.061692 4.35386,2.044504 28.45618,7.586388 28.77248,6.964354 0.3163,-0.622034 3.36945,-1.839829 3.66107,-1.590255 0.29163,0.249574 -1.31558,2.221164 -2.14782,3.227279 0.7684,7.509703 0.15683,6.218195 0.399,11.676019 0.0931,2.097462 0.88759,1.586967 2.13966,2.151521 2.44101,-5.483769 3.15828,-14.005824 1.04641,-17.242136 -2.41878,-3.706657 -29.4273,-8.220024 -34.07899,-10.248474 z"
+       id="path4957-34"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczzcscsc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.28120601px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 132.25636,41.260253 c 3.15349,-5.014651 5.64957,-4.869513 8.25832,-4.915806 -3.6837,0.752478 -4.788,1.446445 -8.25832,4.915806 z"
+       id="path4764-0-3-2-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-5.7370267"
+       inkscape:transform-center-y="-4.3354529"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#008093;fill-opacity:1;stroke:none;stroke-width:0.20917092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 139.55377,40.484838 c 1.07859,-0.787131 1.38487,1.757371 1.42274,4.749796 0.0379,2.992425 -1.27982,2.770309 -2.28637,0.718694 -1.00655,-2.051615 -0.21501,-4.681511 0.86358,-5.468642 z"
+       id="path4883-7-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzzc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#f8f8f8;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 143.1805,93.964724 c 0.54643,0.306632 1.28694,0.45866 1.80434,0.538042 2.99653,0.282318 3.01898,2.665904 2.76325,4.130104 -3.26383,-0.102421 -5.61789,0.168673 -8.82771,-0.126175 -1.00128,-0.865477 -0.40249,-3.028002 -0.81548,-4.656073 z"
+       id="path5069-1-0-9-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#424242;fill-opacity:1;stroke:none;stroke-width:0.33115011px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 147.57535,87.383108 -1.70447,7.666605 -8.03168,-0.520798 -1.06036,-7.930156 z"
+       id="path5025-4-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <g
+       id="g4694"
+       transform="translate(2.80633,1.122532)"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120">
       <path
          inkscape:transform-center-y="-0.28476502"
          inkscape:transform-center-x="2.949032"
@@ -471,24 +575,6 @@
          id="path5008-2-9"
          d="m 137.57794,65.957193 c 0.92983,3.710164 1.5624,9.20149 2.41532,11.317582 0.8529,2.116092 3.25366,5.192557 5.23129,7.929154 l 4.09798,-2.559992 c -1.48086,-1.966283 -2.81037,-4.244905 -3.60061,-5.993887 -0.79025,-1.748982 -1.21152,-4.788168 -1.98026,-7.438644 z"
          style="fill:#a2a2a2;fill-opacity:1;stroke:none;stroke-width:0.28536513px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="czzzc"
-         inkscape:connector-curvature="0"
-         id="path4883-7-5"
-         d="m 139.55377,40.484838 c 1.07859,-0.787131 1.38487,1.757371 1.42274,4.749796 0.0379,2.992425 -1.27982,2.770309 -2.28637,0.718694 -1.00655,-2.051615 -0.21501,-4.681511 0.86358,-5.468642 z"
-         style="fill:#008093;fill-opacity:1;stroke:none;stroke-width:0.20917092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccccc"
-         inkscape:connector-curvature="0"
-         id="path5069-1-0-9-7"
-         d="m 143.1805,93.964724 c 0.54643,0.306632 1.28694,0.45866 1.80434,0.538042 2.99653,0.282318 3.01898,2.665904 2.76325,4.130104 -3.26383,-0.102421 -5.61789,0.168673 -8.82771,-0.126175 -1.00128,-0.865477 -0.40249,-3.028002 -0.81548,-4.656073 z"
-         style="fill:#000000;fill-opacity:1;stroke:#f8f8f8;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path5025-4-8"
-         d="m 147.57535,87.383108 -1.70447,7.666605 -8.03168,-0.520798 -1.06036,-7.930156 z"
-         style="fill:#424242;fill-opacity:1;stroke:none;stroke-width:0.33115011px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="czzcc"
          inkscape:connector-curvature="0"
@@ -499,92 +585,119 @@
          sodipodi:nodetypes="czcczcc"
          inkscape:connector-curvature="0"
          id="path5008-2"
-         d="m 138.04978,66.018451 c 0.8111,3.656328 1.92315,9.819042 2.66716,11.904429 0.744,2.085387 3.4502,5.393773 5.17531,8.090661 l 3.57471,-2.522846 c -1.29177,-1.937751 -3.18591,-4.091123 -3.87525,-5.814727 -0.68934,-1.723604 -1.62304,-6.815973 -2.29362,-9.42799 z"
+         d="m 138.04978,65.924907 c 0.8111,3.656328 1.92315,9.819042 2.66716,11.904429 0.744,2.085387 3.4502,5.393773 5.17531,8.090661 l 3.57471,-2.522846 c -1.29177,-1.937751 -3.18591,-4.091123 -3.87525,-5.814727 -0.68934,-1.723604 -1.62304,-6.815973 -2.29362,-9.42799 z"
          style="fill:#00171b;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path5621"
-         d="m 146.14922,93.998437 1.35599,-6.085416 0.3638,0.330729 -0.95912,5.622396 z"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:transform-center-y="-0.16214258"
-         inkscape:transform-center-x="-0.39915383"
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path4764-0-3-8-58-0-6"
-         d="m 133.02265,25.829163 c -4.88759,1.626431 -6.99598,3.576692 -8.04411,5.030005 3.30552,-2.147037 5.02739,-2.993553 8.04411,-5.030005 z"
-         style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.29194638px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:transform-center-y="-0.13229167"
-         inkscape:transform-center-x="-0.26458333"
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path4764-0-3-8-58-0-6-1"
-         d="m 128.194,41.505725 c -3.23979,1.326999 -4.63737,2.91821 -5.33213,4.103963 2.30328,-1.406581 3.45405,-2.068274 5.33213,-4.103963 z"
-         style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.21469998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:transform-center-y="-0.13229167"
-         inkscape:transform-center-x="-0.24489267"
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path4764-0-3-8-58-0-6-7"
-         d="m 129.1862,30.393225 c -2.99865,1.326999 -4.29221,2.91821 -4.93526,4.103963 2.13184,-1.406581 3.19696,-2.068274 4.93526,-4.103963 z"
-         style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.20655535px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:transform-center-y="-0.13229167"
-         inkscape:transform-center-x="-0.26458333"
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path4764-0-3-8-58-0-6-9"
-         d="m 130.70754,21.661976 c -3.23979,1.326999 -4.63737,2.91821 -5.33213,4.103963 2.30328,-1.406581 3.45405,-2.068274 5.33213,-4.103963 z"
-         style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.21469998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path4764-0-3-8-1-7-9"
-         d="m 145.58649,41.487949 c -0.38069,-3.693864 -1.58186,-4.562924 -2.81688,-4.771703 1.71152,1.616758 1.96516,2.762581 2.81688,4.771703 z"
-         style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.19594552px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:transform-center-y="-0.13229167"
-         inkscape:transform-center-x="-0.26458333"
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path4764-0-3-8-58-0-6-7-3"
-         d="m 128.60773,35.788644 c -3.23979,1.326999 -4.63737,2.91821 -5.33213,4.103963 2.30328,-1.406581 3.45405,-2.068274 5.33213,-4.103963 z"
-         style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.21469998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <g
-         id="g4703-4"
-         transform="matrix(0.78343403,0,0,1,99.983527,-3.4177133)">
-        <ellipse
-           style="fill:#daf9ff;fill-opacity:1;stroke:none;stroke-width:0.60089892;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="path4532-7-9-5-3"
-           cx="73.196136"
-           cy="46.417713"
-           rx="6.4140387"
-           ry="8.0015383" />
-        <ellipse
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23024264;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="path4532-7-9-7-9-7-0-2"
-           cx="73.196136"
-           cy="49.312469"
-           rx="2.2045441"
-           ry="3.4178658" />
-        <ellipse
-           style="fill:#daf9ff;fill-opacity:1;stroke:none;stroke-width:0.08592428;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="path4532-7-9-7-9-7-7-8-7"
-           cx="72.447792"
-           cy="48.332809"
-           rx="0.74933571"
-           ry="1.4004178" />
-      </g>
-      <path
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path4764-0-3-8-0-3"
-         d="m 159.4297,28.376028 c -1.42008,-5.454703 -6.43134,-6.463854 -11.41358,-6.007786 6.26402,0.663888 9.94879,3.208524 11.41358,6.007786 z"
-         style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.26827076px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 146.14922,93.998437 1.35599,-6.085416 0.3638,0.330729 -0.95912,5.622396 z"
+       id="path5621"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.29194638px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 133.02265,25.829163 c -4.88759,1.626431 -6.99598,3.576692 -8.04411,5.030005 3.30552,-2.147037 5.02739,-2.993553 8.04411,-5.030005 z"
+       id="path4764-0-3-8-58-0-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-0.39915383"
+       inkscape:transform-center-y="-0.16214258"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.21469998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 128.194,41.505725 c -3.23979,1.326999 -4.63737,2.91821 -5.33213,4.103963 2.30328,-1.406581 3.45405,-2.068274 5.33213,-4.103963 z"
+       id="path4764-0-3-8-58-0-6-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-0.26458333"
+       inkscape:transform-center-y="-0.13229167"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.20655535px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.1862,30.393225 c -2.99865,1.326999 -4.29221,2.91821 -4.93526,4.103963 2.13184,-1.406581 3.19696,-2.068274 4.93526,-4.103963 z"
+       id="path4764-0-3-8-58-0-6-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-0.24489267"
+       inkscape:transform-center-y="-0.13229167"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.21469998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 130.70754,21.661976 c -3.23979,1.326999 -4.63737,2.91821 -5.33213,4.103963 2.30328,-1.406581 3.45405,-2.068274 5.33213,-4.103963 z"
+       id="path4764-0-3-8-58-0-6-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-0.26458333"
+       inkscape:transform-center-y="-0.13229167"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.19594552px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 145.58649,41.487949 c -0.38069,-3.693864 -1.58186,-4.562924 -2.81688,-4.771703 1.71152,1.616758 1.96516,2.762581 2.81688,4.771703 z"
+       id="path4764-0-3-8-1-7-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.21469998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 128.60773,35.788644 c -3.23979,1.326999 -4.63737,2.91821 -5.33213,4.103963 2.30328,-1.406581 3.45405,-2.068274 5.33213,-4.103963 z"
+       id="path4764-0-3-8-58-0-6-7-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-0.26458333"
+       inkscape:transform-center-y="-0.13229167"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <g
+       transform="matrix(0.78343403,0,0,1,99.983527,-3.4177133)"
+       id="g4703-4"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120">
+      <ellipse
+         ry="8.0015383"
+         rx="6.4140387"
+         cy="46.417713"
+         cx="73.196136"
+         id="path4532-7-9-5-3"
+         style="fill:#daf9ff;fill-opacity:1;stroke:none;stroke-width:0.60089892;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="3.4178658"
+         rx="2.2045441"
+         cy="49.312469"
+         cx="73.196136"
+         id="path4532-7-9-7-9-7-0-2"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23024264;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="1.4004178"
+         rx="0.74933571"
+         cy="48.332809"
+         cx="72.447792"
+         id="path4532-7-9-7-9-7-7-8-7"
+         style="fill:#daf9ff;fill-opacity:1;stroke:none;stroke-width:0.08592428;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#ae6f59;fill-opacity:1;stroke:none;stroke-width:0.26827076px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 159.4297,28.376028 c -1.42008,-5.454703 -6.43134,-6.463854 -11.41358,-6.007786 6.26402,0.663888 9.94879,3.208524 11.41358,6.007786 z"
+       id="path4764-0-3-8-0-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\DEV\Projects\Elevator Ditch\Assets\Sprites\fella-side.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
     <g
        transform="matrix(-1,0,0,1,206.76651,102.88798)"
        id="g4866-6">
